@@ -6,12 +6,11 @@
 }
 
 html {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Rubik Mono One', sans-serif;
     scroll-behavior: smooth;
 }
 
 .menu {
-    font-style: italic;
     position: relative;
     z-index: 100;
 }
