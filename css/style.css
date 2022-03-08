@@ -81,6 +81,10 @@ li:last-child :hover {
     text-align: center;
 }
 
+.prodotto img {
+    width: 50vw;
+}
+
 .prodotto h2 {
-    font-size: 50px;
+    font-size: 3em;
 }
